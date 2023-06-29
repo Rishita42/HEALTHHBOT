@@ -6,7 +6,7 @@
 
 ### You can check it out here 🔥🔥🔥
 
-[HealthPort](https://health-port.herokuapp.com/)
+[HealthPort]
 
 ### or for the coders 🚀🚀🚀
 
